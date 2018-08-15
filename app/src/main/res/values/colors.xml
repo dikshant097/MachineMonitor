@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff0000</color>
+    <color name="background_color">#287AB2</color>
+    <color name="toolbar_color">#2A82C2</color>
+    <color name="white_color">#ffffff</color>
+    <color name="black_color">#000000</color>
+    <color name="blue_color">#002CFC</color>
+    <color name="red_color">#ff0000</color>
+    <color name="void_color">#9E2B31</color>
+    <color name="nature_color">#9EEEE0</color>
+    <color name="scenery_color">#46FF33</color>
+    <color name="wildlife_color">#7A33FF</color>
+    <color name="universe_color">#BEFF33</color>
+    <color name="green">#20AD65</color>
+    <color name="yellow">#FBFE56</color>
+    <color name="orange">#FDC040</color>
+
+    <color name="text_shadow">#7F000000</color>
+    <color name="pro_border">#EDEDED</color>
+</resources>

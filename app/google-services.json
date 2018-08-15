@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1007069171962",
+    "firebase_url": "https://machine-control.firebaseio.com",
+    "project_id": "machine-control",
+    "storage_bucket": "machine-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007069171962:android:09f833e99b00ba4b",
+        "android_client_info": {
+          "package_name": "com.example.dikshantmanocha.machinecontrolingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007069171962-ufq8rf3uoac9t1dhmjo096lpa30gb4mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dikshantmanocha.machinecontrolingsystem",
+            "certificate_hash": "dc18e5ba8bdd54b02274494cf3dbac3bcc010df0"
+          }
+        },
+        {
+          "client_id": "1007069171962-9vmk35pft1j749a4ufmjrjo8drivnmsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFGX59uZv4GFx2OENta1uiwqWC7mtWDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007069171962-9vmk35pft1j749a4ufmjrjo8drivnmsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

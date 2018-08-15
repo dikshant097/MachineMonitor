@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Machine Controling System</string>
+    <string name="action_about">About Us</string>
+    <string name="action_log_out">Sign out</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_control_machine">Control Machine</string>
+    <string name="nav_item_manage_user">Manage Users</string>
+    <string name="nav_item_add_user">Add User</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_control_machine</item>
+        <item>@string/nav_item_manage_user</item>
+        <item>@string/nav_item_add_user</item>
+
+    </string-array>
+
+    <string name="title_myprofile">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_update">Update Profile</string>
+</resources>

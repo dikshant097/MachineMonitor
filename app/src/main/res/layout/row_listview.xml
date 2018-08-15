@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dikshant"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/orange"
+            />
+        <TextView
+            android:id="@+id/tv_lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Manocha"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/tv_fname"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/orange"
+            />
+
+            />
+        <TextView
+            android:id="@+id/Designation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Designation :"
+            android:layout_below="@id/tv_lname"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/orange"
+            />
+        <TextView
+            android:id="@+id/designation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Owner"
+            android:layout_below="@id/tv_lname"
+            android:layout_toRightOf="@+id/Designation"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/orange"
+            />
+        <TextView
+            android:id="@+id/Status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Status :"
+            android:layout_below="@id/tv_lname"
+            android:layout_toRightOf="@id/designation"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/orange"
+            />
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Acive"
+            android:layout_below="@id/tv_lname"
+            android:layout_toRightOf="@id/Status"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/orange"
+            />
+
+
+    </RelativeLayout>
+
+</LinearLayout>
